@@ -1,0 +1,48 @@
+body {
+  background-color: #f9ebe3;
+}
+
+h1 {
+  text-align: center;
+  color: #6d5c4c;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+p {
+  text-align: center;
+  color: #6d5c4c;
+  font-size: 1.1rem;
+  margin-top: 0;
+}
+section {
+  margin: 2em 0;
+}
+h2 {
+  color: #6d5c4c;
+  font-size: 1.8rem;
+  margin-bottom: 0.5em;
+}
+article {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+article p {
+  font-size: 1.2rem;
+  margin: 0;
+}
+.flavor,
+.dessert {
+  color: #a86a32;
+}
+.price {
+  font-weight: bold;
+}
+.item {
+  margin: 1em 0;
+}
